@@ -1,1 +1,1 @@
-echo "1" > /data/zookeeper/myid
+echo "1" > /opt/kafka/myid
