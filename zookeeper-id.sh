@@ -1,1 +1,1 @@
-echo "1" > /opt/kafka/myid
+echo "1" > /home/ansible/opt/kafka/myid
